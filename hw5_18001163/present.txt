@@ -1,0 +1,10 @@
+- Em làm combo 1 + 2: Bài 1, 2, 3.
+- Tất cả chức năng của các hàm thì em đã comment ở trên phần tên hàm rồi ạ.
+- Khi import package hw5_18001163 xong thì mọi người di chuyển file output.txt ra ngoài và để trong cùng project thì mới dùng được.
+Còn lúc nộp bài thì em để luôn ở trong cùng package với các class.
+- Ở bài 3 khi in 1 cây với 3 kiểu in, pre, post thì mỗi kiểu đó em dùng 1 cách sử dụng đệ quy, 1 cách không dùng đệ quy.
+Còn lại thuật toán chuyển từ inorder thành postorder và chuyển từ postorder thành 1 cây nhị phân thì em làm giống như trong
+slide bài tập.
+- Còn thuật toán để in cây thì em sẽ in từ con phải -> cha -> con trái. 
+- T trong ArrayBinaryTree chính là vị trí của các phần tử trong mảng còn trong LinkedBianryTree thì là các node.
+E thì là element tại các node và giá trị tại vị trí tương ứng trong mảng.
